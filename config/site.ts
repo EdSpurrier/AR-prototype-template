@@ -9,21 +9,13 @@ export const siteConfig = {
 			href: "/",
 		},
     {
-      label: "Docs",
-      href: "/docs",
+      label: "Pose Tracking",
+      href: "/pose-tracking",
     },
     {
-      label: "Pricing",
-      href: "/pricing",
+      label: "Pixi.js",
+      href: "/pixijs",
     },
-    {
-      label: "Blog",
-      href: "/blog",
-    },
-    {
-      label: "About",
-      href: "/about",
-    }
 	],
 	navMenuItems: [
 		{
@@ -60,10 +52,7 @@ export const siteConfig = {
 		},
 	],
 	links: {
-		github: "https://github.com/nextui-org/nextui",
-		twitter: "https://twitter.com/getnextui",
-		docs: "https://nextui.org",
-		discord: "https://discord.gg/9b6yyZKmH4",
-    sponsor: "https://patreon.com/jrgarciadev"
+		github: "https://github.com/EdSpurrier/AR-prototype-template",
+		docs: "https://github.com/EdSpurrier/AR-prototype-template/docs",
 	},
 };
